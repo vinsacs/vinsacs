@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sasidhar
+- 👋 Hi, I’m SASIDHAR REDDY KUDUMALA
 - 👀 I’m interested in  machine learing and AI
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on ...
